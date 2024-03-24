@@ -1,0 +1,8 @@
+.container .text{
+background-color: yellow;
+color: #ff0000;
+font-size: 28px;
+text-align: center;
+}
+
+/*Are  " .container .text" and ".container>.text" the same?*/
